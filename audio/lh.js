@@ -40,7 +40,6 @@
       if (this.active != 1) {
         this.active = 1;
         $(document).snowfall({
-          image: "http://static.tumblr.com/c0fcf769092f8b686967ba5bbe87a23d/eazszol/iXKn1f31o/tumblr_static_face_justin_bieber.png",
           maxSize: 70,
           minSize: 50,
           flakeCount: 40,
